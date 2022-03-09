@@ -1,0 +1,16 @@
+section .card {
+    height: 450px;
+    max-width: 300px;
+}
+
+.sedans {
+    padding: 15px;
+}
+
+.suv {
+    padding: 15px;
+}
+
+.luxury {
+    padding: 15px;
+}
